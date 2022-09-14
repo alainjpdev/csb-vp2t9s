@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://alainjpdev.github.io/csb-vp2t9s/static/css/main.2c4fb912.chunk.css",
+    "main.js": "https://alainjpdev.github.io/csb-vp2t9s/static/js/main.18e66e6a.chunk.js",
+    "main.js.map": "https://alainjpdev.github.io/csb-vp2t9s/static/js/main.18e66e6a.chunk.js.map",
+    "runtime-main.js": "https://alainjpdev.github.io/csb-vp2t9s/static/js/runtime-main.6ab2f256.js",
+    "runtime-main.js.map": "https://alainjpdev.github.io/csb-vp2t9s/static/js/runtime-main.6ab2f256.js.map",
+    "static/js/2.b1a869cf.chunk.js": "https://alainjpdev.github.io/csb-vp2t9s/static/js/2.b1a869cf.chunk.js",
+    "static/js/2.b1a869cf.chunk.js.map": "https://alainjpdev.github.io/csb-vp2t9s/static/js/2.b1a869cf.chunk.js.map",
+    "index.html": "https://alainjpdev.github.io/csb-vp2t9s/index.html",
+    "static/css/main.2c4fb912.chunk.css.map": "https://alainjpdev.github.io/csb-vp2t9s/static/css/main.2c4fb912.chunk.css.map",
+    "static/js/2.b1a869cf.chunk.js.LICENSE.txt": "https://alainjpdev.github.io/csb-vp2t9s/static/js/2.b1a869cf.chunk.js.LICENSE.txt",
+    "static/media/credit-card.85d5c2db.svg": "https://alainjpdev.github.io/csb-vp2t9s/static/media/credit-card.85d5c2db.svg",
+    "static/media/product-image.8fdd5bff.jpg": "https://alainjpdev.github.io/csb-vp2t9s/static/media/product-image.8fdd5bff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ab2f256.js",
+    "static/js/2.b1a869cf.chunk.js",
+    "static/css/main.2c4fb912.chunk.css",
+    "static/js/main.18e66e6a.chunk.js"
+  ]
+}
